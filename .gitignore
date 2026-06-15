@@ -1,0 +1,25 @@
+# Secrets & credentials
+.env
+credentials.json
+token.json
+
+# Temporary / regenerable files
+.tmp/*
+!.tmp/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Claude Code local state (not part of the app)
+.claude/

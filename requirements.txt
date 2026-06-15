@@ -1,0 +1,15 @@
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Dashboard
+streamlit>=1.40.0
+pandas>=2.0.0
+plotly>=5.20.0
+
+# External enrichment (valuation ratios + weekly OHLC for charts)
+yfinance>=0.2.40
+
+# Dev-only (not needed by the deployed app):
+# python-docx>=1.1.0         # reading the local methodology .docx
+# anthropic>=0.40.0          # AI summaries / analysis

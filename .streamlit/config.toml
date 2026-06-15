@@ -1,0 +1,11 @@
+# SimplyWall.st-inspired dark theme.
+[theme]
+base = "dark"
+primaryColor = "#2dd4a7"
+backgroundColor = "#0d1117"
+secondaryBackgroundColor = "#161b22"
+textColor = "#e6edf3"
+font = "sans serif"
+
+[server]
+headless = true
