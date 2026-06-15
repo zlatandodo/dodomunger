@@ -27,7 +27,9 @@ import external  # noqa: E402
 SCANNER_ID = "munger-200w"
 TMP = ".tmp"
 ENRICHED = os.path.join(TMP, f"{SCANNER_ID}_enriched.json")
-FUND_DIR = os.path.join(TMP, "fundamentals")
+FUND_DIR = os.path.join(TMP, "fundamentals")          # fresh cache (gitignored)
+SEED_FUND_DIR = os.path.join("data", "fundamentals")  # committed snapshot
+FUND_DIRS = [SEED_FUND_DIR, FUND_DIR]                 # later dir overrides earlier
 
 st.set_page_config(page_title="Dodo Munger Scanner", page_icon="🎩", layout="wide")
 
@@ -63,16 +65,21 @@ def run_pipeline():
 
 @st.cache_data(show_spinner=False)
 def load_fundamentals(_sig):
-    """Load all cached yfinance fundamentals into {ticker: dict}."""
+    """Load yfinance fundamentals into {ticker: dict}.
+
+    Reads the committed seed snapshot first, then the fresh .tmp cache, so a
+    freshly-downloaded ticker overrides the bundled one.
+    """
     out = {}
-    for path in glob.glob(os.path.join(FUND_DIR, "*.json")):
-        try:
-            with open(path, encoding="utf-8") as f:
-                d = json.load(f)
-            if d.get("ticker"):
-                out[d["ticker"]] = d
-        except Exception:  # noqa: BLE001
-            continue
+    for d_dir in FUND_DIRS:
+        for path in glob.glob(os.path.join(d_dir, "*.json")):
+            try:
+                with open(path, encoding="utf-8") as f:
+                    d = json.load(f)
+                if d.get("ticker"):
+                    out[d["ticker"]] = d
+            except Exception:  # noqa: BLE001
+                continue
     return out
 
 
@@ -110,8 +117,10 @@ def load_data(path, _mtime, _fund_sig):
 
 
 def fund_signature():
-    """Cheap signature that changes when the fundamentals cache changes."""
-    files = glob.glob(os.path.join(FUND_DIR, "*.json"))
+    """Cheap signature that changes when either fundamentals dir changes."""
+    files = []
+    for d_dir in FUND_DIRS:
+        files += glob.glob(os.path.join(d_dir, "*.json"))
     return (len(files), round(max((os.path.getmtime(f) for f in files), default=0), 2))
 
 
