@@ -1,4 +1,4 @@
-"""Weekly Munger Scanner — Streamlit dashboard.
+"""Dodo Munger Scanner — Streamlit dashboard.
 
 Replicates the AskLivermore "Munger 200W | Charlie Munger" database locally and
 adds:
@@ -29,7 +29,7 @@ TMP = ".tmp"
 ENRICHED = os.path.join(TMP, f"{SCANNER_ID}_enriched.json")
 FUND_DIR = os.path.join(TMP, "fundamentals")
 
-st.set_page_config(page_title="Weekly Munger Scanner", page_icon="🎩", layout="wide")
+st.set_page_config(page_title="Dodo Munger Scanner", page_icon="🎩", layout="wide")
 
 NUMERIC_COLS = [
     "munger_score", "quality_score", "value_score", "munger_rank",
@@ -126,7 +126,7 @@ if not os.path.exists(ENRICHED):
 df, meta = load_data(ENRICHED, os.path.getmtime(ENRICHED), fund_signature())
 
 # ---------------------------------------------------------------- sidebar
-st.sidebar.title("🎩 Munger Scanner")
+st.sidebar.title("🎩 Dodo Munger Scanner")
 if st.sidebar.button("🔄 Aggiorna dati scanner", use_container_width=True):
     with st.spinner("Aggiorno dallo scanner…"):
         ok, log = run_pipeline()
@@ -220,7 +220,7 @@ if only_options:
     f = f[f["has_options"] == True]  # noqa: E712
 
 # ---------------------------------------------------------------- header
-st.title("Weekly Munger Scanner")
+st.title("Dodo Munger Scanner")
 st.caption("Wonderful businesses near their 200-week MA value zone — replica "
            "AskLivermore + Munger Score + analisi fondamentale (regole del tuo documento).")
 

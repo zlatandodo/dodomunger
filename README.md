@@ -1,4 +1,4 @@
-# Weekly Munger Scanner
+# Dodo Munger Scanner
 
 Dashboard that replicates the AskLivermore **"Munger 200W | Charlie Munger"**
 stock scanner and enriches it with a derived **Munger Score**, fundamental
