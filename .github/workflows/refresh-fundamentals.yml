@@ -1,0 +1,56 @@
+name: Refresh fundamentals snapshot
+
+# Keeps data/fundamentals/ up to date so the deployed Streamlit app never shows
+# stale valuation data. Runs weekly and can be triggered manually.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday 06:00 UTC
+  workflow_dispatch: {}    # manual "Run workflow" button
+
+permissions:
+  contents: write          # allow the action to commit & push the snapshot
+
+concurrency:
+  group: refresh-fundamentals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv yfinance pandas
+
+      - name: Fetch scanner universe
+        run: python tools/fetch_scanner.py munger-200w
+
+      - name: Fetch fundamentals for all tickers
+        run: python tools/external.py --all --max-age-days 0
+
+      - name: Rebuild data/fundamentals snapshot
+        run: |
+          rm -rf data/fundamentals
+          mkdir -p data/fundamentals
+          cp .tmp/fundamentals/*.json data/fundamentals/
+          echo "Snapshot files: $(ls data/fundamentals | wc -l)"
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fundamentals
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: weekly fundamentals snapshot refresh"
+            git push
+          fi

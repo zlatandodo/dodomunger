@@ -49,7 +49,16 @@ fetches yfinance ratios (cached 7 days).
 4. You get a public URL (e.g. `https://<app>.streamlit.app`) to share with friends.
 
 No secrets are required — the scanner API is public and `.env` is gitignored.
-The app fetches fresh data on startup, so each deploy/restart is up to date.
+The app fetches fresh scanner data on startup, so each deploy/restart is up to date.
+
+### Keeping fundamentals fresh (automated)
+
+`data/fundamentals/` is a committed snapshot of yfinance ratios so the app shows
+full Doc scores / Snowflakes immediately. A GitHub Action
+(`.github/workflows/refresh-fundamentals.yml`) refreshes it **every Monday** (and
+on-demand via the Actions tab → *Run workflow*), commits the changes and pushes —
+which triggers a Streamlit redeploy. Needs Actions write permission (Settings →
+Actions → General → Workflow permissions → *Read and write*).
 
 ## Project layout
 
