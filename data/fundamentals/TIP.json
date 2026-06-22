@@ -1,10 +1,10 @@
 {
   "ticker": "TIP",
   "yf_symbol": "TIP",
-  "_fetched_at": "2026-06-15T20:02:10.591322+00:00",
-  "trailingPE": 12.333708,
+  "_fetched_at": "2026-06-22T11:57:14.685226+00:00",
+  "trailingPE": 12.291012,
   "forwardPE": null,
-  "priceToBook": 0.87609243,
+  "priceToBook": 0.8730596,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

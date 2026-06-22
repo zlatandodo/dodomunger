@@ -1,8 +1,8 @@
 {
   "ticker": "DBMF",
   "yf_symbol": "DBMF",
-  "_fetched_at": "2026-06-15T20:02:55.442354+00:00",
-  "trailingPE": 30.390676,
+  "_fetched_at": "2026-06-22T11:57:49.167802+00:00",
+  "trailingPE": 30.4399,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

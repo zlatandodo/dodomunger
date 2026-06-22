@@ -1,10 +1,10 @@
 {
   "ticker": "IGV",
   "yf_symbol": "IGV",
-  "_fetched_at": "2026-06-15T20:02:15.617115+00:00",
-  "trailingPE": 30.247478,
+  "_fetched_at": "2026-06-22T11:57:18.169336+00:00",
+  "trailingPE": 29.06642,
   "forwardPE": null,
-  "priceToBook": 0.23236811,
+  "priceToBook": 0.22329494,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

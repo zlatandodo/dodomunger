@@ -1,8 +1,8 @@
 {
   "ticker": "KSA",
   "yf_symbol": "KSA",
-  "_fetched_at": "2026-06-15T20:03:24.320195+00:00",
-  "trailingPE": 15.051899,
+  "_fetched_at": "2026-06-22T11:58:11.065900+00:00",
+  "trailingPE": 15.336229,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

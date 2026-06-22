@@ -1,10 +1,10 @@
 {
   "ticker": "IYH",
   "yf_symbol": "IYH",
-  "_fetched_at": "2026-06-15T20:03:02.288694+00:00",
-  "trailingPE": 27.181862,
+  "_fetched_at": "2026-06-22T11:57:54.779491+00:00",
+  "trailingPE": 26.61084,
   "forwardPE": null,
-  "priceToBook": 0.24336612,
+  "priceToBook": 0.23825362,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

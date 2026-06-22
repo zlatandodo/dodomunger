@@ -1,8 +1,8 @@
 {
   "ticker": "IHF",
   "yf_symbol": "IHF",
-  "_fetched_at": "2026-06-15T20:03:23.368799+00:00",
-  "trailingPE": 24.233372,
+  "_fetched_at": "2026-06-22T11:58:10.509204+00:00",
+  "trailingPE": 23.67644,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

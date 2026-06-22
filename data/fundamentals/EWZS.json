@@ -1,8 +1,8 @@
 {
   "ticker": "EWZS",
   "yf_symbol": "EWZS",
-  "_fetched_at": "2026-06-15T20:03:25.125504+00:00",
-  "trailingPE": 10.299233,
+  "_fetched_at": "2026-06-22T11:58:11.630470+00:00",
+  "trailingPE": 9.727483,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
