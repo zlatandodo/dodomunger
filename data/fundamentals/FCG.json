@@ -1,8 +1,8 @@
 {
   "ticker": "FCG",
   "yf_symbol": "FCG",
-  "_fetched_at": "2026-06-22T11:58:09.908358+00:00",
-  "trailingPE": 10.97967,
+  "_fetched_at": "2026-06-29T11:03:06.562507+00:00",
+  "trailingPE": 10.920442,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

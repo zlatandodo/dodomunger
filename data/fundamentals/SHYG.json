@@ -1,8 +1,8 @@
 {
   "ticker": "SHYG",
   "yf_symbol": "SHYG",
-  "_fetched_at": "2026-06-22T11:57:28.637907+00:00",
-  "trailingPE": 10.803976,
+  "_fetched_at": "2026-06-29T11:02:25.816289+00:00",
+  "trailingPE": 10.783605,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

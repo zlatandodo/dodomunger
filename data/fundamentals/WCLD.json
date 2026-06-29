@@ -1,8 +1,8 @@
 {
   "ticker": "WCLD",
   "yf_symbol": "WCLD",
-  "_fetched_at": "2026-06-22T11:58:13.327385+00:00",
-  "trailingPE": 24.074064,
+  "_fetched_at": "2026-06-29T11:03:09.345856+00:00",
+  "trailingPE": 25.019102,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
