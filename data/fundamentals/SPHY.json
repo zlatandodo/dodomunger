@@ -1,8 +1,8 @@
 {
   "ticker": "SPHY",
   "yf_symbol": "SPHY",
-  "_fetched_at": "2026-06-29T11:02:17.984371+00:00",
-  "trailingPE": 58.48721,
+  "_fetched_at": "2026-07-06T10:23:56.650671+00:00",
+  "trailingPE": 58.312325,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

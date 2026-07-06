@@ -1,8 +1,8 @@
 {
   "ticker": "JEPI",
   "yf_symbol": "JEPI",
-  "_fetched_at": "2026-06-29T11:01:54.917257+00:00",
-  "trailingPE": 27.516237,
+  "_fetched_at": "2026-07-06T10:23:31.576712+00:00",
+  "trailingPE": 27.785715,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,10 +1,10 @@
 {
   "ticker": "FXI",
   "yf_symbol": "FXI",
-  "_fetched_at": "2026-06-29T11:02:35.271721+00:00",
-  "trailingPE": 9.142664,
+  "_fetched_at": "2026-07-06T10:24:15.286691+00:00",
+  "trailingPE": 9.235277,
   "forwardPE": null,
-  "priceToBook": 0.78278327,
+  "priceToBook": 0.79071265,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

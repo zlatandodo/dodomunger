@@ -1,10 +1,10 @@
 {
   "ticker": "SHY",
   "yf_symbol": "SHY",
-  "_fetched_at": "2026-06-29T11:02:03.433407+00:00",
-  "trailingPE": 3735.9092,
+  "_fetched_at": "2026-07-06T10:23:41.266034+00:00",
+  "trailingPE": 3724.5457,
   "forwardPE": null,
-  "priceToBook": 0.953016,
+  "priceToBook": 0.9501172,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

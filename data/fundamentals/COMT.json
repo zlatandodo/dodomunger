@@ -1,8 +1,8 @@
 {
   "ticker": "COMT",
   "yf_symbol": "COMT",
-  "_fetched_at": "2026-06-29T11:03:04.785672+00:00",
-  "trailingPE": 71.5905,
+  "_fetched_at": "2026-07-06T10:24:49.197470+00:00",
+  "trailingPE": 71.56016,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

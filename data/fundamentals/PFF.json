@@ -1,10 +1,10 @@
 {
   "ticker": "PFF",
   "yf_symbol": "PFF",
-  "_fetched_at": "2026-06-29T11:02:13.315390+00:00",
-  "trailingPE": 3.7639475,
+  "_fetched_at": "2026-07-06T10:23:52.171129+00:00",
+  "trailingPE": 3.7788246,
   "forwardPE": null,
-  "priceToBook": 0.79320705,
+  "priceToBook": 0.7963422,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
