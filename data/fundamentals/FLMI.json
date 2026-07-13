@@ -1,7 +1,7 @@
 {
   "ticker": "FLMI",
   "yf_symbol": "FLMI",
-  "_fetched_at": "2026-07-06T10:24:42.198022+00:00",
+  "_fetched_at": "2026-07-13T09:29:29.327739+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.87,
+  "dividendYield": 3.85,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

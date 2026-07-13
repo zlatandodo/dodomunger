@@ -1,7 +1,7 @@
 {
   "ticker": "MUB",
   "yf_symbol": "MUB",
-  "_fetched_at": "2026-07-06T10:23:32.856283+00:00",
+  "_fetched_at": "2026-07-13T09:28:22.450685+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.17,
+  "dividendYield": 3.16,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

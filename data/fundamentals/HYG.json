@@ -1,7 +1,7 @@
 {
   "ticker": "HYG",
   "yf_symbol": "HYG",
-  "_fetched_at": "2026-07-06T10:23:45.743707+00:00",
+  "_fetched_at": "2026-07-13T09:28:36.720431+00:00",
   "trailingPE": 10.960216,
   "forwardPE": 1328.5,
   "priceToBook": 0.9061455,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.84,
+  "dividendYield": 5.9,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

@@ -1,7 +1,7 @@
 {
   "ticker": "TBT",
   "yf_symbol": "TBT",
-  "_fetched_at": "2026-07-06T10:24:53.085785+00:00",
+  "_fetched_at": "2026-07-13T09:29:37.133632+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 2.9,
+  "dividendYield": 2.78,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

@@ -1,7 +1,7 @@
 {
   "ticker": "IGOV",
   "yf_symbol": "IGOV",
-  "_fetched_at": "2026-07-06T10:24:48.562488+00:00",
+  "_fetched_at": "2026-07-13T09:29:34.780638+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 1.4,
+  "dividendYield": 1.43,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

@@ -1,9 +1,9 @@
 {
   "ticker": "EPI",
   "yf_symbol": "EPI",
-  "_fetched_at": "2026-07-06T10:24:40.278096+00:00",
-  "trailingPE": 17.918596,
-  "forwardPE": -80.98113,
+  "_fetched_at": "2026-07-13T09:29:27.560076+00:00",
+  "trailingPE": 16.841297,
+  "forwardPE": -80.4151,
   "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,

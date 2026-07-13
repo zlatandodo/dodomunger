@@ -1,7 +1,7 @@
 {
   "ticker": "SGOV",
   "yf_symbol": "SGOV",
-  "_fetched_at": "2026-07-06T10:23:28.385750+00:00",
+  "_fetched_at": "2026-07-13T09:28:18.265971+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.9,
+  "dividendYield": 3.85,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

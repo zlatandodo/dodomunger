@@ -1,7 +1,7 @@
 {
   "ticker": "VCIT",
   "yf_symbol": "VCIT",
-  "_fetched_at": "2026-07-06T10:23:29.662884+00:00",
+  "_fetched_at": "2026-07-13T09:28:19.439267+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.75,
+  "dividendYield": 4.78,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

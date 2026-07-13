@@ -1,7 +1,7 @@
 {
   "ticker": "SPTI",
   "yf_symbol": "SPTI",
-  "_fetched_at": "2026-07-06T10:23:58.579244+00:00",
+  "_fetched_at": "2026-07-13T09:28:48.659559+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.84,
+  "dividendYield": 3.85,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

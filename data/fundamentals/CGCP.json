@@ -1,8 +1,8 @@
 {
   "ticker": "CGCP",
   "yf_symbol": "CGCP",
-  "_fetched_at": "2026-07-06T10:24:06.228673+00:00",
-  "trailingPE": 10.838277,
+  "_fetched_at": "2026-07-13T09:28:55.722090+00:00",
+  "trailingPE": 10.779927,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,7 +1,7 @@
 {
   "ticker": "SPMB",
   "yf_symbol": "SPMB",
-  "_fetched_at": "2026-07-06T10:24:08.884432+00:00",
+  "_fetched_at": "2026-07-13T09:28:58.081930+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.05,
+  "dividendYield": 4.07,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

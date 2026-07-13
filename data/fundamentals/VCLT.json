@@ -1,7 +1,7 @@
 {
   "ticker": "VCLT",
   "yf_symbol": "VCLT",
-  "_fetched_at": "2026-07-06T10:24:07.606895+00:00",
+  "_fetched_at": "2026-07-13T09:28:56.908132+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.53,
+  "dividendYield": 5.52,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

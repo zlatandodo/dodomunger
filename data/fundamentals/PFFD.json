@@ -1,7 +1,7 @@
 {
   "ticker": "PFFD",
   "yf_symbol": "PFFD",
-  "_fetched_at": "2026-07-06T10:24:41.556697+00:00",
+  "_fetched_at": "2026-07-13T09:29:28.738845+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.33,
+  "dividendYield": 6.43,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

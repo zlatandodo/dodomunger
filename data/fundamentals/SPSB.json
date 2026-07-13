@@ -1,7 +1,7 @@
 {
   "ticker": "SPSB",
   "yf_symbol": "SPSB",
-  "_fetched_at": "2026-07-06T10:23:59.214300+00:00",
+  "_fetched_at": "2026-07-13T09:28:49.248282+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.4,
+  "dividendYield": 4.39,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

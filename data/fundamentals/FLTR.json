@@ -1,7 +1,7 @@
 {
   "ticker": "FLTR",
   "yf_symbol": "FLTR",
-  "_fetched_at": "2026-07-06T10:24:33.894691+00:00",
+  "_fetched_at": "2026-07-13T09:29:21.687571+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.76,
+  "dividendYield": 4.71,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

@@ -1,7 +1,7 @@
 {
   "ticker": "SCHO",
   "yf_symbol": "SCHO",
-  "_fetched_at": "2026-07-06T10:23:54.085795+00:00",
+  "_fetched_at": "2026-07-13T09:28:44.429840+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.94,
+  "dividendYield": 3.9,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

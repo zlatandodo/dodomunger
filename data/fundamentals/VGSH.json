@@ -1,7 +1,7 @@
 {
   "ticker": "VGSH",
   "yf_symbol": "VGSH",
-  "_fetched_at": "2026-07-06T10:23:38.701579+00:00",
+  "_fetched_at": "2026-07-13T09:28:27.936639+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.89,
+  "dividendYield": 3.87,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

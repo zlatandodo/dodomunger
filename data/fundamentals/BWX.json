@@ -1,7 +1,7 @@
 {
   "ticker": "BWX",
   "yf_symbol": "BWX",
-  "_fetched_at": "2026-07-06T10:24:46.010807+00:00",
+  "_fetched_at": "2026-07-13T09:29:32.333363+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 2.32,
+  "dividendYield": 2.39,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

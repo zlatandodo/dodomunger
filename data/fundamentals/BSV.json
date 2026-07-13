@@ -1,7 +1,7 @@
 {
   "ticker": "BSV",
   "yf_symbol": "BSV",
-  "_fetched_at": "2026-07-06T10:23:32.216595+00:00",
+  "_fetched_at": "2026-07-13T09:28:21.863546+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.97,
+  "dividendYield": 3.99,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
