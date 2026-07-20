@@ -1,7 +1,7 @@
 {
   "ticker": "IEI",
   "yf_symbol": "IEI",
-  "_fetched_at": "2026-07-13T09:28:32.659566+00:00",
+  "_fetched_at": "2026-07-20T08:59:23.065083+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares 3-7 Year Treasury Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

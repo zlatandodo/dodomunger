@@ -1,10 +1,10 @@
 {
   "ticker": "TLT",
   "yf_symbol": "TLT",
-  "_fetched_at": "2026-07-13T09:28:23.038675+00:00",
+  "_fetched_at": "2026-07-20T08:59:14.159066+00:00",
   "trailingPE": null,
-  "forwardPE": -4223.5,
-  "priceToBook": 0.56742686,
+  "forwardPE": -4226.0,
+  "priceToBook": 0.5677627,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

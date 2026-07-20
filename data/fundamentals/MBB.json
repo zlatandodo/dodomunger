@@ -1,7 +1,7 @@
 {
   "ticker": "MBB",
   "yf_symbol": "MBB",
-  "_fetched_at": "2026-07-13T09:28:26.047187+00:00",
+  "_fetched_at": "2026-07-20T08:59:16.976260+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares MBS ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

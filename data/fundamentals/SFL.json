@@ -1,7 +1,7 @@
 {
   "ticker": "SFL",
   "yf_symbol": "SFL",
-  "_fetched_at": "2026-07-13T09:28:06.837519+00:00",
+  "_fetched_at": "2026-07-20T08:59:01.385326+00:00",
   "trailingPE": 46.291668,
   "forwardPE": 23.179152,
   "priceToBook": 1.5313576,
@@ -20,8 +20,8 @@
   "profitMargins": 0.04456,
   "trailingEps": 0.24,
   "forwardEps": 0.47931,
-  "marketCap": 1477549824,
-  "longName": "SFL Corporation Ltd.",
+  "marketCap": null,
+  "longName": null,
   "sector": "Industrials",
   "industry": "Marine Shipping",
   "_ok": true

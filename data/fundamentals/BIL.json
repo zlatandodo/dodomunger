@@ -1,7 +1,7 @@
 {
   "ticker": "BIL",
   "yf_symbol": "BIL",
-  "_fetched_at": "2026-07-13T09:28:20.621386+00:00",
+  "_fetched_at": "2026-07-20T08:59:11.940287+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

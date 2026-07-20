@@ -1,10 +1,10 @@
 {
   "ticker": "AGG",
   "yf_symbol": "AGG",
-  "_fetched_at": "2026-07-13T09:28:17.677083+00:00",
-  "trailingPE": 125.10204,
+  "_fetched_at": "2026-07-20T08:59:09.215808+00:00",
+  "trailingPE": null,
   "forwardPE": null,
-  "priceToBook": 0.8499428,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares Core U.S. Aggregate Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

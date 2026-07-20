@@ -1,10 +1,10 @@
 {
   "ticker": "IEF",
   "yf_symbol": "IEF",
-  "_fetched_at": "2026-07-13T09:28:20.030552+00:00",
+  "_fetched_at": "2026-07-20T08:59:11.390424+00:00",
   "trailingPE": null,
   "forwardPE": null,
-  "priceToBook": 0.79917717,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares 7-10 Year Treasury Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

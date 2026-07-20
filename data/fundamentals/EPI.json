@@ -1,9 +1,9 @@
 {
   "ticker": "EPI",
   "yf_symbol": "EPI",
-  "_fetched_at": "2026-07-13T09:29:27.560076+00:00",
-  "trailingPE": 16.841297,
-  "forwardPE": -80.4151,
+  "_fetched_at": "2026-07-20T09:00:10.778546+00:00",
+  "trailingPE": null,
+  "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "WisdomTree India Earnings Fund",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }
