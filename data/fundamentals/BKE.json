@@ -1,7 +1,7 @@
 {
   "ticker": "BKE",
   "yf_symbol": "BKE",
-  "_fetched_at": "2026-07-20T08:58:46.265987+00:00",
+  "_fetched_at": "2026-07-27T09:52:51.080430+00:00",
   "trailingPE": 9.740826,
   "forwardPE": 10.102428,
   "priceToBook": 4.685053,
@@ -20,8 +20,8 @@
   "profitMargins": 0.16846001,
   "trailingEps": 4.36,
   "forwardEps": 4.20394,
-  "marketCap": null,
-  "longName": null,
+  "marketCap": 2187973376,
+  "longName": "The Buckle, Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Apparel Retail",
   "_ok": true

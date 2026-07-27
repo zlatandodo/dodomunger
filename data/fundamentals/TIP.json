@@ -1,10 +1,10 @@
 {
   "ticker": "TIP",
   "yf_symbol": "TIP",
-  "_fetched_at": "2026-07-20T08:59:29.206526+00:00",
-  "trailingPE": null,
+  "_fetched_at": "2026-07-27T09:53:36.493764+00:00",
+  "trailingPE": 12.078652,
   "forwardPE": null,
-  "priceToBook": null,
+  "priceToBook": 0.8579752,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "iShares TIPS Bond ETF",
   "sector": null,
   "industry": null,
-  "_ok": false
+  "_ok": true
 }

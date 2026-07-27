@@ -1,7 +1,7 @@
 {
   "ticker": "EMB",
   "yf_symbol": "EMB",
-  "_fetched_at": "2026-07-20T08:59:29.750041+00:00",
+  "_fetched_at": "2026-07-27T09:53:37.066147+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
   "sector": null,
   "industry": null,
-  "_ok": false
+  "_ok": true
 }

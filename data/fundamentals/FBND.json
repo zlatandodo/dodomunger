@@ -1,8 +1,8 @@
 {
   "ticker": "FBND",
   "yf_symbol": "FBND",
-  "_fetched_at": "2026-07-20T08:59:21.348793+00:00",
-  "trailingPE": 8.971063,
+  "_fetched_at": "2026-07-27T09:53:28.323261+00:00",
+  "trailingPE": 8.907678,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

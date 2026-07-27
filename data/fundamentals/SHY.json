@@ -1,10 +1,10 @@
 {
   "ticker": "SHY",
   "yf_symbol": "SHY",
-  "_fetched_at": "2026-07-20T08:59:20.802889+00:00",
-  "trailingPE": null,
+  "_fetched_at": "2026-07-27T09:53:27.790271+00:00",
+  "trailingPE": 3720.4546,
   "forwardPE": null,
-  "priceToBook": null,
+  "priceToBook": 0.94907355,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "iShares 1-3 Year Treasury Bond ETF",
   "sector": null,
   "industry": null,
-  "_ok": false
+  "_ok": true
 }

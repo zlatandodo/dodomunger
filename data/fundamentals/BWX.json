@@ -1,7 +1,7 @@
 {
   "ticker": "BWX",
   "yf_symbol": "BWX",
-  "_fetched_at": "2026-07-20T09:00:15.987874+00:00",
+  "_fetched_at": "2026-07-27T09:54:23.399521+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "State Street SPDR Bloomberg International Treasury Bond ETF",
   "sector": null,
   "industry": null,
-  "_ok": false
+  "_ok": true
 }
