@@ -1,10 +1,10 @@
 {
   "ticker": "AGG",
   "yf_symbol": "AGG",
-  "_fetched_at": "2026-07-27T09:53:16.782598+00:00",
-  "trailingPE": 124.311226,
+  "_fetched_at": "2026-08-03T09:44:56.014610+00:00",
+  "trailingPE": 124.196434,
   "forwardPE": null,
-  "priceToBook": 0.84457,
+  "priceToBook": 0.84379005,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

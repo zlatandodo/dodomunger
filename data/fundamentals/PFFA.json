@@ -1,8 +1,8 @@
 {
   "ticker": "PFFA",
   "yf_symbol": "PFFA",
-  "_fetched_at": "2026-07-27T09:54:18.206155+00:00",
-  "trailingPE": 55.954956,
+  "_fetched_at": "2026-08-03T09:45:56.310541+00:00",
+  "trailingPE": 56.447952,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "REMX",
   "yf_symbol": "REMX",
-  "_fetched_at": "2026-07-27T09:54:10.245549+00:00",
-  "trailingPE": 30.71346,
+  "_fetched_at": "2026-08-03T09:45:48.406134+00:00",
+  "trailingPE": 30.012842,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

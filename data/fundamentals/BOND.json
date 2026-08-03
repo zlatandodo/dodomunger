@@ -1,8 +1,8 @@
 {
   "ticker": "BOND",
   "yf_symbol": "BOND",
-  "_fetched_at": "2026-07-27T09:53:48.621912+00:00",
-  "trailingPE": 1.6028318,
+  "_fetched_at": "2026-08-03T09:45:25.736524+00:00",
+  "trailingPE": 1.6015929,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
