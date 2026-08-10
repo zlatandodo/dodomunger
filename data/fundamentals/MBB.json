@@ -1,7 +1,7 @@
 {
   "ticker": "MBB",
   "yf_symbol": "MBB",
-  "_fetched_at": "2026-08-03T09:45:02.829815+00:00",
+  "_fetched_at": "2026-08-10T07:41:51.366535+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.26,
+  "dividendYield": 4.34,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares MBS ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

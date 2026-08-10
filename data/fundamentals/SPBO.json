@@ -1,7 +1,7 @@
 {
   "ticker": "SPBO",
   "yf_symbol": "SPBO",
-  "_fetched_at": "2026-08-03T09:45:58.933011+00:00",
+  "_fetched_at": "2026-08-10T07:42:47.338573+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.1,
+  "dividendYield": 5.2,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

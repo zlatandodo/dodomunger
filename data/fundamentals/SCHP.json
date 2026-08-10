@@ -1,7 +1,7 @@
 {
   "ticker": "SCHP",
   "yf_symbol": "SCHP",
-  "_fetched_at": "2026-08-03T09:45:11.883493+00:00",
+  "_fetched_at": "2026-08-10T07:42:00.577010+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.0,
+  "dividendYield": 4.51,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

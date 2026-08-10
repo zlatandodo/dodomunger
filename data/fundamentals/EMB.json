@@ -1,7 +1,7 @@
 {
   "ticker": "EMB",
   "yf_symbol": "EMB",
-  "_fetched_at": "2026-08-03T09:45:15.103239+00:00",
+  "_fetched_at": "2026-08-10T07:42:03.861616+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.02,
+  "dividendYield": 5.15,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

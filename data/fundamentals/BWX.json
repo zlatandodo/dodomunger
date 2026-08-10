@@ -1,7 +1,7 @@
 {
   "ticker": "BWX",
   "yf_symbol": "BWX",
-  "_fetched_at": "2026-08-03T09:46:01.081712+00:00",
+  "_fetched_at": "2026-08-10T07:42:49.535264+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 2.39,
+  "dividendYield": 2.4,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "State Street SPDR Bloomberg International Treasury Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

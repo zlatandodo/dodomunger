@@ -1,7 +1,7 @@
 {
   "ticker": "DFSD",
   "yf_symbol": "DFSD",
-  "_fetched_at": "2026-08-03T09:45:33.000534+00:00",
+  "_fetched_at": "2026-08-10T07:42:22.139490+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.18,
+  "dividendYield": 4.59,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

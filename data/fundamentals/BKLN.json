@@ -1,7 +1,7 @@
 {
   "ticker": "BKLN",
   "yf_symbol": "BKLN",
-  "_fetched_at": "2026-08-03T09:45:31.415520+00:00",
+  "_fetched_at": "2026-08-10T07:42:20.453813+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.59,
+  "dividendYield": 6.51,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

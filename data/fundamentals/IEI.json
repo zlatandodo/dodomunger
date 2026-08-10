@@ -1,7 +1,7 @@
 {
   "ticker": "IEI",
   "yf_symbol": "IEI",
-  "_fetched_at": "2026-08-03T09:45:08.681881+00:00",
+  "_fetched_at": "2026-08-10T07:41:57.328329+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.63,
+  "dividendYield": 3.68,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares 3-7 Year Treasury Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

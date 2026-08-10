@@ -1,7 +1,7 @@
 {
   "ticker": "SHYG",
   "yf_symbol": "SHYG",
-  "_fetched_at": "2026-08-03T09:45:26.319241+00:00",
+  "_fetched_at": "2026-08-10T07:42:15.386625+00:00",
   "trailingPE": 10.732679,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 7.0,
+  "dividendYield": 7.03,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

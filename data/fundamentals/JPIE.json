@@ -1,7 +1,7 @@
 {
   "ticker": "JPIE",
   "yf_symbol": "JPIE",
-  "_fetched_at": "2026-08-03T09:45:24.682562+00:00",
+  "_fetched_at": "2026-08-10T07:42:13.753923+00:00",
   "trailingPE": 20.01732,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.62,
+  "dividendYield": 5.66,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

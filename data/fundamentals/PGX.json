@@ -1,7 +1,7 @@
 {
   "ticker": "PGX",
   "yf_symbol": "PGX",
-  "_fetched_at": "2026-08-03T09:45:42.563309+00:00",
+  "_fetched_at": "2026-08-10T07:42:31.938114+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.27,
+  "dividendYield": 6.38,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

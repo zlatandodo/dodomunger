@@ -1,7 +1,7 @@
 {
   "ticker": "FLCB",
   "yf_symbol": "FLCB",
-  "_fetched_at": "2026-08-03T09:45:49.979703+00:00",
+  "_fetched_at": "2026-08-10T07:42:38.589581+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.28,
+  "dividendYield": 4.38,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

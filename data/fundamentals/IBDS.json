@@ -1,7 +1,7 @@
 {
   "ticker": "IBDS",
   "yf_symbol": "IBDS",
-  "_fetched_at": "2026-08-03T09:45:43.607229+00:00",
+  "_fetched_at": "2026-08-10T07:42:33.048952+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.31,
+  "dividendYield": 4.3,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

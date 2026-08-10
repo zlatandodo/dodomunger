@@ -1,7 +1,7 @@
 {
   "ticker": "MUB",
   "yf_symbol": "MUB",
-  "_fetched_at": "2026-08-03T09:45:00.202846+00:00",
+  "_fetched_at": "2026-08-10T07:41:48.661336+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.16,
+  "dividendYield": 3.23,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares National Muni Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

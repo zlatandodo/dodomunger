@@ -1,10 +1,10 @@
 {
   "ticker": "HYG",
   "yf_symbol": "HYG",
-  "_fetched_at": "2026-08-03T09:45:10.253930+00:00",
-  "trailingPE": 10.928591,
-  "forwardPE": 1324.6667,
-  "priceToBook": 0.9035309,
+  "_fetched_at": "2026-08-10T07:41:58.952537+00:00",
+  "trailingPE": null,
+  "forwardPE": null,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.9,
+  "dividendYield": 5.94,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "iShares iBoxx $ High Yield Corporate Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

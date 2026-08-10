@@ -1,7 +1,7 @@
 {
   "ticker": "IBDR",
   "yf_symbol": "IBDR",
-  "_fetched_at": "2026-08-03T09:45:44.713613+00:00",
+  "_fetched_at": "2026-08-10T07:42:34.162975+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.12,
+  "dividendYield": 4.1,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

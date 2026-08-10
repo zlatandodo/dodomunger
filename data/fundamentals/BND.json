@@ -1,7 +1,7 @@
 {
   "ticker": "BND",
   "yf_symbol": "BND",
-  "_fetched_at": "2026-08-03T09:44:55.492522+00:00",
+  "_fetched_at": "2026-08-10T07:41:43.749203+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.95,
+  "dividendYield": 4.03,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "Vanguard Total Bond Market Index Fund",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }

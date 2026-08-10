@@ -1,7 +1,7 @@
 {
   "ticker": "VTIP",
   "yf_symbol": "VTIP",
-  "_fetched_at": "2026-08-03T09:45:09.732029+00:00",
+  "_fetched_at": "2026-08-10T07:41:58.411662+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.6,
+  "dividendYield": 4.16,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

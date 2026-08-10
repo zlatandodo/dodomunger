@@ -1,10 +1,10 @@
 {
   "ticker": "JNK",
   "yf_symbol": "JNK",
-  "_fetched_at": "2026-08-03T09:45:29.835110+00:00",
-  "trailingPE": 20.046093,
+  "_fetched_at": "2026-08-10T07:42:18.287687+00:00",
+  "trailingPE": null,
   "forwardPE": null,
-  "priceToBook": 0.88182706,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -14,15 +14,15 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.6,
+  "dividendYield": 6.65,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "State Street SPDR Bloomberg High Yield Bond ETF",
+  "longName": null,
   "sector": null,
   "industry": null,
-  "_ok": true
+  "_ok": false
 }
