@@ -1,7 +1,7 @@
 {
   "ticker": "BNDX",
   "yf_symbol": "BNDX",
-  "_fetched_at": "2026-08-10T07:41:45.376318+00:00",
+  "_fetched_at": "2026-08-17T06:55:23.440802+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,7 +21,7 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "Vanguard Total International Bond Index Fund",
+  "longName": "Vanguard Total International Bond Index Fund ETF Shares",
   "sector": null,
   "industry": null,
   "_ok": true

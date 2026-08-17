@@ -1,8 +1,8 @@
 {
   "ticker": "ITB",
   "yf_symbol": "ITB",
-  "_fetched_at": "2026-08-10T07:42:41.862872+00:00",
-  "trailingPE": 17.133364,
+  "_fetched_at": "2026-08-17T06:56:17.428080+00:00",
+  "trailingPE": 16.733574,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

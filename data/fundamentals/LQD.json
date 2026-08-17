@@ -1,10 +1,10 @@
 {
   "ticker": "LQD",
   "yf_symbol": "LQD",
-  "_fetched_at": "2026-08-10T07:41:52.441568+00:00",
-  "trailingPE": null,
+  "_fetched_at": "2026-08-17T06:55:30.583385+00:00",
+  "trailingPE": 32.089508,
   "forwardPE": null,
-  "priceToBook": null,
+  "priceToBook": 0.78454566,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
   "sector": null,
   "industry": null,
-  "_ok": false
+  "_ok": true
 }

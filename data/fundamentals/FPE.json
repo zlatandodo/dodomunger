@@ -1,8 +1,8 @@
 {
   "ticker": "FPE",
   "yf_symbol": "FPE",
-  "_fetched_at": "2026-08-10T07:42:23.780880+00:00",
-  "trailingPE": null,
+  "_fetched_at": "2026-08-17T06:56:01.389778+00:00",
+  "trailingPE": 21.795212,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
@@ -21,8 +21,8 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "First Trust Preferred Securities and Income ETF",
   "sector": null,
   "industry": null,
-  "_ok": false
+  "_ok": true
 }

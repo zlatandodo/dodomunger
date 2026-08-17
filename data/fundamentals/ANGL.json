@@ -1,8 +1,8 @@
 {
   "ticker": "ANGL",
   "yf_symbol": "ANGL",
-  "_fetched_at": "2026-08-10T07:42:37.470826+00:00",
-  "trailingPE": 60.699158,
+  "_fetched_at": "2026-08-17T06:56:13.535599+00:00",
+  "trailingPE": 60.740993,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "TAN",
   "yf_symbol": "TAN",
-  "_fetched_at": "2026-08-10T07:42:48.964079+00:00",
-  "trailingPE": 23.537949,
+  "_fetched_at": "2026-08-17T06:56:24.081992+00:00",
+  "trailingPE": 23.1899,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
@@ -21,7 +21,7 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": null,
+  "longName": "Invesco Solar ETF",
   "sector": null,
   "industry": null,
   "_ok": true

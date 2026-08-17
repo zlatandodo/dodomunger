@@ -1,8 +1,8 @@
 {
   "ticker": "IHI",
   "yf_symbol": "IHI",
-  "_fetched_at": "2026-08-10T07:42:36.376520+00:00",
-  "trailingPE": 31.569803,
+  "_fetched_at": "2026-08-17T06:56:12.442589+00:00",
+  "trailingPE": 32.37095,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

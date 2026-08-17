@@ -1,8 +1,8 @@
 {
   "ticker": "IUSB",
   "yf_symbol": "IUSB",
-  "_fetched_at": "2026-08-10T07:41:51.905550+00:00",
-  "trailingPE": 10.820314,
+  "_fetched_at": "2026-08-17T06:55:30.039710+00:00",
+  "trailingPE": 10.806058,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
