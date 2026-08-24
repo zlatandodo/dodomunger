@@ -1,8 +1,8 @@
 {
   "ticker": "FTHI",
   "yf_symbol": "FTHI",
-  "_fetched_at": "2026-08-17T06:56:21.350188+00:00",
-  "trailingPE": 26.353071,
+  "_fetched_at": "2026-08-24T06:59:33.729909+00:00",
+  "trailingPE": 25.800665,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

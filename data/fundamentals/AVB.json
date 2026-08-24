@@ -1,7 +1,7 @@
 {
   "ticker": "AVB",
   "yf_symbol": "AVB",
-  "_fetched_at": "2026-08-17T06:53:52.168391+00:00",
+  "_fetched_at": "2026-08-24T06:56:58.718544+00:00",
   "trailingPE": 25.248285,
   "forwardPE": 36.754955,
   "priceToBook": 2.1691887,
@@ -21,7 +21,7 @@
   "trailingEps": 7.29,
   "forwardEps": 5.00776,
   "marketCap": 26283393024,
-  "longName": "AvalonBay Communities, Inc.",
+  "longName": "AvalonBay Communities Inc",
   "sector": "Real Estate",
   "industry": "REIT - Residential",
   "_ok": true

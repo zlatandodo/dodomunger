@@ -1,8 +1,8 @@
 {
   "ticker": "INDA",
   "yf_symbol": "INDA",
-  "_fetched_at": "2026-08-17T06:55:59.761235+00:00",
-  "trailingPE": 22.864523,
+  "_fetched_at": "2026-08-24T06:59:11.260180+00:00",
+  "trailingPE": 22.80022,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

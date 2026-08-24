@@ -1,8 +1,8 @@
 {
   "ticker": "RYLD",
   "yf_symbol": "RYLD",
-  "_fetched_at": "2026-08-17T06:56:25.719795+00:00",
-  "trailingPE": 18.51547,
+  "_fetched_at": "2026-08-24T06:59:38.636751+00:00",
+  "trailingPE": 18.549341,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
