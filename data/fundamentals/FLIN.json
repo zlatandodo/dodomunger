@@ -1,8 +1,8 @@
 {
   "ticker": "FLIN",
   "yf_symbol": "FLIN",
-  "_fetched_at": "2026-08-24T06:59:29.930405+00:00",
-  "trailingPE": 23.359028,
+  "_fetched_at": "2026-08-31T12:53:24.170774+00:00",
+  "trailingPE": 23.365574,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

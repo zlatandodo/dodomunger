@@ -1,7 +1,7 @@
 {
   "ticker": "BIV",
   "yf_symbol": "BIV",
-  "_fetched_at": "2026-08-24T06:58:43.874620+00:00",
+  "_fetched_at": "2026-08-31T12:52:23.465168+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,7 +21,7 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "Vanguard Intermediate-Term Bond Index Fund",
+  "longName": "Vanguard Intermediate-Term Bond Index Fund ETF Shares",
   "sector": null,
   "industry": null,
   "_ok": true

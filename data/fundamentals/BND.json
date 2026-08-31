@@ -1,7 +1,7 @@
 {
   "ticker": "BND",
   "yf_symbol": "BND",
-  "_fetched_at": "2026-08-24T06:58:34.036015+00:00",
+  "_fetched_at": "2026-08-31T12:52:10.763206+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,7 +21,7 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "Vanguard Total Bond Market Index Fund",
+  "longName": "Vanguard Total Bond Market Index Fund ETF Shares",
   "sector": null,
   "industry": null,
   "_ok": true

@@ -1,8 +1,8 @@
 {
   "ticker": "TAN",
   "yf_symbol": "TAN",
-  "_fetched_at": "2026-08-24T06:59:37.560502+00:00",
-  "trailingPE": 22.007423,
+  "_fetched_at": "2026-08-31T12:53:32.501856+00:00",
+  "trailingPE": 21.70846,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

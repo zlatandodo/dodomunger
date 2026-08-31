@@ -1,7 +1,7 @@
 {
   "ticker": "BLV",
   "yf_symbol": "BLV",
-  "_fetched_at": "2026-08-24T06:59:15.077525+00:00",
+  "_fetched_at": "2026-08-31T12:53:04.297508+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -21,7 +21,7 @@
   "trailingEps": null,
   "forwardEps": null,
   "marketCap": null,
-  "longName": "Vanguard Long-Term Bond Fund",
+  "longName": "Vanguard Long-Term Bond Index Fund ETF Shares",
   "sector": null,
   "industry": null,
   "_ok": true

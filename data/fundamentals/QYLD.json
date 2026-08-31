@@ -1,8 +1,8 @@
 {
   "ticker": "QYLD",
   "yf_symbol": "QYLD",
-  "_fetched_at": "2026-08-24T06:59:04.184954+00:00",
-  "trailingPE": 30.399437,
+  "_fetched_at": "2026-08-31T12:52:50.490126+00:00",
+  "trailingPE": 30.299877,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

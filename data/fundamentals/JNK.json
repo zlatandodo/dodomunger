@@ -1,10 +1,10 @@
 {
   "ticker": "JNK",
   "yf_symbol": "JNK",
-  "_fetched_at": "2026-08-24T06:59:07.988816+00:00",
-  "trailingPE": 20.085901,
+  "_fetched_at": "2026-08-31T12:52:55.998728+00:00",
+  "trailingPE": null,
   "forwardPE": null,
-  "priceToBook": 0.88357824,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
