@@ -1,7 +1,7 @@
 {
   "ticker": "SPIB",
   "yf_symbol": "SPIB",
-  "_fetched_at": "2026-08-31T12:52:41.369222+00:00",
+  "_fetched_at": "2026-09-07T11:43:52.521342+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.49,
+  "dividendYield": 4.5,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

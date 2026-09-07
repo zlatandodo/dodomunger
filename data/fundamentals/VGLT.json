@@ -1,7 +1,7 @@
 {
   "ticker": "VGLT",
   "yf_symbol": "VGLT",
-  "_fetched_at": "2026-08-31T12:52:46.243108+00:00",
+  "_fetched_at": "2026-09-07T11:43:56.335362+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.77,
+  "dividendYield": 4.76,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

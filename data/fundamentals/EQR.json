@@ -1,7 +1,7 @@
 {
   "ticker": "EQR",
   "yf_symbol": "EQR",
-  "_fetched_at": "2026-08-31T12:50:06.825999+00:00",
+  "_fetched_at": "2026-09-07T11:41:53.093877+00:00",
   "trailingPE": 28.675674,
   "forwardPE": 41.35888,
   "priceToBook": 2.273409,
@@ -20,7 +20,7 @@
   "profitMargins": 0.27974,
   "trailingEps": 2.22,
   "forwardEps": 1.54921,
-  "marketCap": 24611481600,
+  "marketCap": 24609972224,
   "longName": "Equity Residential",
   "sector": "Real Estate",
   "industry": "REIT - Residential",

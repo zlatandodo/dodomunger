@@ -1,7 +1,7 @@
 {
   "ticker": "BIL",
   "yf_symbol": "BIL",
-  "_fetched_at": "2026-08-31T12:52:14.808512+00:00",
+  "_fetched_at": "2026-09-07T11:43:31.155781+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.81,
+  "dividendYield": 3.76,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

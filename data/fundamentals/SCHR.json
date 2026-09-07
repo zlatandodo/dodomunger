@@ -1,7 +1,7 @@
 {
   "ticker": "SCHR",
   "yf_symbol": "SCHR",
-  "_fetched_at": "2026-08-31T12:52:38.582598+00:00",
+  "_fetched_at": "2026-09-07T11:43:50.342678+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.95,
+  "dividendYield": 3.97,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

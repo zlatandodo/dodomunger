@@ -1,7 +1,7 @@
 {
   "ticker": "IBDT",
   "yf_symbol": "IBDT",
-  "_fetched_at": "2026-08-31T12:53:11.808743+00:00",
+  "_fetched_at": "2026-09-07T11:44:18.398129+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.52,
+  "dividendYield": 4.51,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

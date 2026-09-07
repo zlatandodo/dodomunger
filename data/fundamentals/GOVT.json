@@ -1,7 +1,7 @@
 {
   "ticker": "GOVT",
   "yf_symbol": "GOVT",
-  "_fetched_at": "2026-08-31T12:52:18.982760+00:00",
+  "_fetched_at": "2026-09-07T11:43:34.417071+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.63,
+  "dividendYield": 3.65,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

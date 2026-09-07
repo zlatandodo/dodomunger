@@ -1,7 +1,7 @@
 {
   "ticker": "RITM",
   "yf_symbol": "RITM",
-  "_fetched_at": "2026-08-31T12:51:10.788936+00:00",
+  "_fetched_at": "2026-09-07T11:42:42.146636+00:00",
   "trailingPE": 16.8,
   "forwardPE": 4.28291,
   "priceToBook": 0.81765085,
@@ -14,7 +14,7 @@
   "revenueGrowth": 0.097,
   "earningsGrowth": -0.932,
   "earningsQuarterlyGrowth": -0.819,
-  "dividendYield": 9.99,
+  "dividendYield": 9.92,
   "returnOnEquity": 0.055910002,
   "returnOnAssets": 0.010089999,
   "profitMargins": 0.10784,

@@ -1,7 +1,7 @@
 {
   "ticker": "VMBS",
   "yf_symbol": "VMBS",
-  "_fetched_at": "2026-08-31T12:52:33.773162+00:00",
+  "_fetched_at": "2026-09-07T11:43:46.501038+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.24,
+  "dividendYield": 4.25,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

@@ -1,7 +1,7 @@
 {
   "ticker": "HYLB",
   "yf_symbol": "HYLB",
-  "_fetched_at": "2026-08-31T12:53:15.269861+00:00",
+  "_fetched_at": "2026-09-07T11:44:21.237106+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.53,
+  "dividendYield": 6.51,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

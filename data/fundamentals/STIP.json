@@ -1,7 +1,7 @@
 {
   "ticker": "STIP",
   "yf_symbol": "STIP",
-  "_fetched_at": "2026-08-31T12:52:34.443904+00:00",
+  "_fetched_at": "2026-09-07T11:43:47.042238+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.91,
+  "dividendYield": 5.37,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

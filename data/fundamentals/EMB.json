@@ -1,7 +1,7 @@
 {
   "ticker": "EMB",
   "yf_symbol": "EMB",
-  "_fetched_at": "2026-08-31T12:52:36.546703+00:00",
+  "_fetched_at": "2026-09-07T11:43:48.683163+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.15,
+  "dividendYield": 5.14,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

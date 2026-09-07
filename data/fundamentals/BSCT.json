@@ -1,7 +1,7 @@
 {
   "ticker": "BSCT",
   "yf_symbol": "BSCT",
-  "_fetched_at": "2026-08-31T12:53:21.368469+00:00",
+  "_fetched_at": "2026-09-07T11:44:26.158831+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.57,
+  "dividendYield": 4.53,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

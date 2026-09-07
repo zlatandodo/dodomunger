@@ -1,7 +1,7 @@
 {
   "ticker": "VTEB",
   "yf_symbol": "VTEB",
-  "_fetched_at": "2026-08-31T12:52:17.669617+00:00",
+  "_fetched_at": "2026-09-07T11:43:33.330657+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.42,
+  "dividendYield": 3.44,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

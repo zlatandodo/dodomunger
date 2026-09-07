@@ -1,7 +1,7 @@
 {
   "ticker": "SPAB",
   "yf_symbol": "SPAB",
-  "_fetched_at": "2026-08-31T12:52:46.991634+00:00",
+  "_fetched_at": "2026-09-07T11:43:56.925786+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.11,
+  "dividendYield": 4.12,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
