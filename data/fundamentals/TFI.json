@@ -1,9 +1,9 @@
 {
   "ticker": "TFI",
   "yf_symbol": "TFI",
-  "_fetched_at": "2026-09-07T11:44:22.881181+00:00",
+  "_fetched_at": "2026-09-14T11:59:19.248859+00:00",
   "trailingPE": null,
-  "forwardPE": 26.479044,
+  "forwardPE": 26.218563,
   "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
