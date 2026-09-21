@@ -1,10 +1,10 @@
 {
   "ticker": "PBW",
   "yf_symbol": "PBW",
-  "_fetched_at": "2026-09-14T11:59:36.569010+00:00",
-  "trailingPE": 30.870794,
+  "_fetched_at": "2026-09-21T12:10:25.832477+00:00",
+  "trailingPE": null,
   "forwardPE": null,
-  "priceToBook": 0.35396418,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
