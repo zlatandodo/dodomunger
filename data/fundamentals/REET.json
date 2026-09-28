@@ -1,8 +1,8 @@
 {
   "ticker": "REET",
   "yf_symbol": "REET",
-  "_fetched_at": "2026-09-21T12:09:54.443149+00:00",
-  "trailingPE": 21.963938,
+  "_fetched_at": "2026-09-28T13:05:39.347680+00:00",
+  "trailingPE": 21.82991,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

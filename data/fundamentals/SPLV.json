@@ -1,8 +1,8 @@
 {
   "ticker": "SPLV",
   "yf_symbol": "SPLV",
-  "_fetched_at": "2026-09-21T12:09:44.084045+00:00",
-  "trailingPE": 19.470045,
+  "_fetched_at": "2026-09-28T13:05:17.409546+00:00",
+  "trailingPE": 19.126677,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

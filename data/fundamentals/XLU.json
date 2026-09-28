@@ -1,10 +1,10 @@
 {
   "ticker": "XLU",
   "yf_symbol": "XLU",
-  "_fetched_at": "2026-09-21T12:09:17.548193+00:00",
-  "trailingPE": 18.506212,
+  "_fetched_at": "2026-09-28T13:04:49.041266+00:00",
+  "trailingPE": 17.79028,
   "forwardPE": null,
-  "priceToBook": 0.6422878,
+  "priceToBook": 0.61744016,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "MCHI",
   "yf_symbol": "MCHI",
-  "_fetched_at": "2026-09-21T12:09:46.471698+00:00",
-  "trailingPE": 11.4962845,
+  "_fetched_at": "2026-09-28T13:05:19.851733+00:00",
+  "trailingPE": 11.398804,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

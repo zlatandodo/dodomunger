@@ -1,8 +1,8 @@
 {
   "ticker": "SCHH",
   "yf_symbol": "SCHH",
-  "_fetched_at": "2026-09-21T12:09:35.398786+00:00",
-  "trailingPE": 29.527653,
+  "_fetched_at": "2026-09-28T13:05:07.574643+00:00",
+  "trailingPE": 28.969301,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

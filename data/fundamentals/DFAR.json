@@ -1,8 +1,8 @@
 {
   "ticker": "DFAR",
   "yf_symbol": "DFAR",
-  "_fetched_at": "2026-09-21T12:10:20.632512+00:00",
-  "trailingPE": 28.462023,
+  "_fetched_at": "2026-09-28T13:06:08.677716+00:00",
+  "trailingPE": 27.803547,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
