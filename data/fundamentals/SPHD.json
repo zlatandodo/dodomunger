@@ -1,8 +1,8 @@
 {
   "ticker": "SPHD",
   "yf_symbol": "SPHD",
-  "_fetched_at": "2026-09-28T13:05:49.506564+00:00",
-  "trailingPE": 15.792047,
+  "_fetched_at": "2026-10-05T13:47:44.218486+00:00",
+  "trailingPE": 15.418973,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "XOVR",
   "yf_symbol": "XOVR",
-  "_fetched_at": "2026-09-28T13:06:13.540074+00:00",
-  "trailingPE": 29.637363,
+  "_fetched_at": "2026-10-05T13:48:10.138572+00:00",
+  "trailingPE": 30.479805,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,10 +1,10 @@
 {
   "ticker": "XLP",
   "yf_symbol": "XLP",
-  "_fetched_at": "2026-09-28T13:04:57.457607+00:00",
-  "trailingPE": 24.274485,
+  "_fetched_at": "2026-10-05T13:47:02.999115+00:00",
+  "trailingPE": 23.742022,
   "forwardPE": null,
-  "priceToBook": 1.2036316,
+  "priceToBook": 1.1772299,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

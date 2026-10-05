@@ -1,7 +1,7 @@
 {
   "ticker": "D",
   "yf_symbol": "D",
-  "_fetched_at": "2026-09-28T13:01:53.781837+00:00",
+  "_fetched_at": "2026-10-05T13:44:03.588730+00:00",
   "trailingPE": 20.99654,
   "forwardPE": 15.908847,
   "priceToBook": 1.9117832,
@@ -14,7 +14,7 @@
   "revenueGrowth": 0.176,
   "earningsGrowth": -0.58,
   "earningsQuarterlyGrowth": -0.553,
-  "dividendYield": 4.4,
+  "dividendYield": 4.35,
   "returnOnEquity": 0.08281,
   "returnOnAssets": 0.03041,
   "profitMargins": 0.13984999,

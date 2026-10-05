@@ -1,8 +1,8 @@
 {
   "ticker": "SPYD",
   "yf_symbol": "SPYD",
-  "_fetched_at": "2026-09-28T13:05:16.802348+00:00",
-  "trailingPE": 15.89337,
+  "_fetched_at": "2026-10-05T13:47:21.797095+00:00",
+  "trailingPE": 15.494228,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

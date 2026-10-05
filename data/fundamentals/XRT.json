@@ -1,10 +1,10 @@
 {
   "ticker": "XRT",
   "yf_symbol": "XRT",
-  "_fetched_at": "2026-09-28T13:06:15.374795+00:00",
-  "trailingPE": 15.529179,
+  "_fetched_at": "2026-10-05T13:48:12.522747+00:00",
+  "trailingPE": 15.515998,
   "forwardPE": null,
-  "priceToBook": 0.91298574,
+  "priceToBook": 0.91221076,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

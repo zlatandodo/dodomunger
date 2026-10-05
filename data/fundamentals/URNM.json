@@ -1,8 +1,8 @@
 {
   "ticker": "URNM",
   "yf_symbol": "URNM",
-  "_fetched_at": "2026-09-28T13:06:00.779923+00:00",
-  "trailingPE": 21.27869,
+  "_fetched_at": "2026-10-05T13:47:54.382755+00:00",
+  "trailingPE": 20.522913,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

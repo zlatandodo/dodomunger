@@ -1,9 +1,9 @@
 {
   "ticker": "HYD",
   "yf_symbol": "HYD",
-  "_fetched_at": "2026-09-28T13:05:43.786329+00:00",
+  "_fetched_at": "2026-10-05T13:47:38.036227+00:00",
   "trailingPE": null,
-  "forwardPE": -2403.5,
+  "forwardPE": -2390.25,
   "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,

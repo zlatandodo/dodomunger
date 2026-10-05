@@ -1,8 +1,8 @@
 {
   "ticker": "CQQQ",
   "yf_symbol": "CQQQ",
-  "_fetched_at": "2026-09-28T13:05:57.014445+00:00",
-  "trailingPE": 17.977077,
+  "_fetched_at": "2026-10-05T13:47:50.746203+00:00",
+  "trailingPE": 17.276423,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "FVD",
   "yf_symbol": "FVD",
-  "_fetched_at": "2026-09-28T13:05:11.871002+00:00",
-  "trailingPE": 17.58918,
+  "_fetched_at": "2026-10-05T13:47:16.508765+00:00",
+  "trailingPE": 17.389345,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
