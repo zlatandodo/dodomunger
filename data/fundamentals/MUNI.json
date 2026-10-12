@@ -1,7 +1,7 @@
 {
   "ticker": "MUNI",
   "yf_symbol": "MUNI",
-  "_fetched_at": "2026-10-05T13:47:48.978579+00:00",
+  "_fetched_at": "2026-10-12T14:36:40.140443+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.38,
+  "dividendYield": 3.46,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

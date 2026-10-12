@@ -1,7 +1,7 @@
 {
   "ticker": "VCSH",
   "yf_symbol": "VCSH",
-  "_fetched_at": "2026-10-05T13:46:47.983466+00:00",
+  "_fetched_at": "2026-10-12T14:35:36.289458+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.47,
+  "dividendYield": 4.56,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

@@ -1,7 +1,7 @@
 {
   "ticker": "TAFI",
   "yf_symbol": "TAFI",
-  "_fetched_at": "2026-10-05T13:48:08.343647+00:00",
+  "_fetched_at": "2026-10-12T14:37:00.201901+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.12,
+  "dividendYield": 3.18,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

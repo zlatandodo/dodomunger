@@ -1,7 +1,7 @@
 {
   "ticker": "SUB",
   "yf_symbol": "SUB",
-  "_fetched_at": "2026-10-05T13:47:07.762138+00:00",
+  "_fetched_at": "2026-10-12T14:35:57.406866+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 2.56,
+  "dividendYield": 2.61,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

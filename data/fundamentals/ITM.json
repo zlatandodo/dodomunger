@@ -1,7 +1,7 @@
 {
   "ticker": "ITM",
   "yf_symbol": "ITM",
-  "_fetched_at": "2026-10-05T13:47:58.522689+00:00",
+  "_fetched_at": "2026-10-12T14:36:49.151366+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.05,
+  "dividendYield": 3.2,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

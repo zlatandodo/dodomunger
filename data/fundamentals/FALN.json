@@ -1,7 +1,7 @@
 {
   "ticker": "FALN",
   "yf_symbol": "FALN",
-  "_fetched_at": "2026-10-05T13:48:02.738130+00:00",
+  "_fetched_at": "2026-10-12T14:36:54.200548+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.52,
+  "dividendYield": 6.78,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
