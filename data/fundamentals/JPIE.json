@@ -1,8 +1,8 @@
 {
   "ticker": "JPIE",
   "yf_symbol": "JPIE",
-  "_fetched_at": "2026-10-12T14:36:04.875119+00:00",
-  "trailingPE": 19.567585,
+  "_fetched_at": "2026-10-19T12:19:30.065082+00:00",
+  "trailingPE": 19.633043,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

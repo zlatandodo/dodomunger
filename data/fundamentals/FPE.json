@@ -1,8 +1,8 @@
 {
   "ticker": "FPE",
   "yf_symbol": "FPE",
-  "_fetched_at": "2026-10-12T14:36:18.270149+00:00",
-  "trailingPE": null,
+  "_fetched_at": "2026-10-19T12:19:43.272075+00:00",
+  "trailingPE": 20.901865,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
