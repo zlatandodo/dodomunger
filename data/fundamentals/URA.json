@@ -1,8 +1,8 @@
 {
   "ticker": "URA",
   "yf_symbol": "URA",
-  "_fetched_at": "2026-10-19T12:19:31.931798+00:00",
-  "trailingPE": 21.149475,
+  "_fetched_at": "2026-10-26T12:23:33.671296+00:00",
+  "trailingPE": 20.361519,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

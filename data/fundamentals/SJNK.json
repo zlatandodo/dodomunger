@@ -1,8 +1,8 @@
 {
   "ticker": "SJNK",
   "yf_symbol": "SJNK",
-  "_fetched_at": "2026-10-19T12:19:48.928608+00:00",
-  "trailingPE": 0.87309647,
+  "_fetched_at": "2026-10-26T12:23:51.299031+00:00",
+  "trailingPE": 0.8738216,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,10 +1,10 @@
 {
   "ticker": "IYR",
   "yf_symbol": "IYR",
-  "_fetched_at": "2026-10-19T12:19:52.715299+00:00",
-  "trailingPE": 26.228094,
+  "_fetched_at": "2026-10-26T12:23:55.853841+00:00",
+  "trailingPE": 26.500097,
   "forwardPE": null,
-  "priceToBook": 0.95092565,
+  "priceToBook": 0.9607874,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

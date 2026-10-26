@@ -1,10 +1,10 @@
 {
   "ticker": "LQD",
   "yf_symbol": "LQD",
-  "_fetched_at": "2026-10-19T12:19:05.408003+00:00",
-  "trailingPE": 31.26701,
+  "_fetched_at": "2026-10-26T12:23:05.543557+00:00",
+  "trailingPE": 31.403084,
   "forwardPE": null,
-  "priceToBook": 0.7644367,
+  "priceToBook": 0.76776356,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
