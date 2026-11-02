@@ -1,8 +1,8 @@
 {
   "ticker": "ASHR",
   "yf_symbol": "ASHR",
-  "_fetched_at": "2026-10-26T12:24:24.490249+00:00",
-  "trailingPE": 14.033605,
+  "_fetched_at": "2026-11-02T14:55:45.467204+00:00",
+  "trailingPE": 13.853369,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

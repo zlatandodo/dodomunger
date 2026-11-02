@@ -1,10 +1,10 @@
 {
   "ticker": "VNQ",
   "yf_symbol": "VNQ",
-  "_fetched_at": "2026-10-26T12:23:03.667190+00:00",
-  "trailingPE": 29.335543,
+  "_fetched_at": "2026-11-02T14:54:31.836474+00:00",
+  "trailingPE": 29.895731,
   "forwardPE": null,
-  "priceToBook": 1.5937618,
+  "priceToBook": null,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

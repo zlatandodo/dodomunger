@@ -1,8 +1,8 @@
 {
   "ticker": "ICLN",
   "yf_symbol": "ICLN",
-  "_fetched_at": "2026-10-26T12:24:13.846612+00:00",
-  "trailingPE": 19.447235,
+  "_fetched_at": "2026-11-02T14:55:35.466088+00:00",
+  "trailingPE": 19.070915,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
