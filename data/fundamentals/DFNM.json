@@ -1,7 +1,7 @@
 {
   "ticker": "DFNM",
   "yf_symbol": "DFNM",
-  "_fetched_at": "2026-11-02T14:55:41.310861+00:00",
+  "_fetched_at": "2026-11-09T15:24:07.007224+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.08,
+  "dividendYield": 3.03,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

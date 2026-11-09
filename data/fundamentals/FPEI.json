@@ -1,7 +1,7 @@
 {
   "ticker": "FPEI",
   "yf_symbol": "FPEI",
-  "_fetched_at": "2026-11-02T14:55:43.670999+00:00",
+  "_fetched_at": "2026-11-09T15:24:10.762813+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.05,
+  "dividendYield": 6.08,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

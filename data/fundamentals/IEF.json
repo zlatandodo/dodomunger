@@ -1,7 +1,7 @@
 {
   "ticker": "IEF",
   "yf_symbol": "IEF",
-  "_fetched_at": "2026-11-02T14:54:25.996302+00:00",
+  "_fetched_at": "2026-11-09T15:22:32.042205+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.14,
+  "dividendYield": 4.05,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

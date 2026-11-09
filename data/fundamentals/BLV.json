@@ -1,7 +1,7 @@
 {
   "ticker": "BLV",
   "yf_symbol": "BLV",
-  "_fetched_at": "2026-11-02T14:55:13.106580+00:00",
+  "_fetched_at": "2026-11-09T15:23:30.157898+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.23,
+  "dividendYield": 5.05,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

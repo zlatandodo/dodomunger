@@ -1,7 +1,7 @@
 {
   "ticker": "CGMU",
   "yf_symbol": "CGMU",
-  "_fetched_at": "2026-11-02T14:55:13.647946+00:00",
+  "_fetched_at": "2026-11-09T15:23:30.847230+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.57,
+  "dividendYield": 3.43,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

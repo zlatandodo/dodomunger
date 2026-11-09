@@ -1,7 +1,7 @@
 {
   "ticker": "BIV",
   "yf_symbol": "BIV",
-  "_fetched_at": "2026-11-02T14:54:34.862120+00:00",
+  "_fetched_at": "2026-11-09T15:22:42.943404+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.5,
+  "dividendYield": 4.43,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

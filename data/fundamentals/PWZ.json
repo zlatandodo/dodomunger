@@ -1,7 +1,7 @@
 {
   "ticker": "PWZ",
   "yf_symbol": "PWZ",
-  "_fetched_at": "2026-11-02T14:55:51.784880+00:00",
+  "_fetched_at": "2026-11-09T15:24:23.418081+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.07,
+  "dividendYield": 3.98,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

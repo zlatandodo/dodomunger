@@ -1,7 +1,7 @@
 {
   "ticker": "EMLC",
   "yf_symbol": "EMLC",
-  "_fetched_at": "2026-11-02T14:55:14.753019+00:00",
+  "_fetched_at": "2026-11-09T15:23:32.235352+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 6.36,
+  "dividendYield": 6.49,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

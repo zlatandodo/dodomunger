@@ -1,7 +1,7 @@
 {
   "ticker": "FLRN",
   "yf_symbol": "FLRN",
-  "_fetched_at": "2026-11-02T14:55:32.489626+00:00",
+  "_fetched_at": "2026-11-09T15:23:55.151511+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.32,
+  "dividendYield": 4.26,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

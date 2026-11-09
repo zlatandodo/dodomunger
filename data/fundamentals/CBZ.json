@@ -1,7 +1,7 @@
 {
   "ticker": "CBZ",
   "yf_symbol": "CBZ",
-  "_fetched_at": "2026-11-02T14:54:10.877825+00:00",
+  "_fetched_at": "2026-11-09T15:22:05.772467+00:00",
   "trailingPE": 23.10084,
   "forwardPE": 12.313549,
   "priceToBook": 1.5827504,
@@ -21,7 +21,7 @@
   "trailingEps": 2.38,
   "forwardEps": 4.465,
   "marketCap": 3029990400,
-  "longName": "CBIZ, Inc.",
+  "longName": "CBIZ Inc",
   "sector": "Industrials",
   "industry": "Specialty Business Services",
   "_ok": true

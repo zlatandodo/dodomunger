@@ -1,7 +1,7 @@
 {
   "ticker": "IBDW",
   "yf_symbol": "IBDW",
-  "_fetched_at": "2026-11-02T14:55:37.348877+00:00",
+  "_fetched_at": "2026-11-09T15:24:02.018231+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.94,
+  "dividendYield": 4.88,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

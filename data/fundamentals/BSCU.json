@@ -1,7 +1,7 @@
 {
   "ticker": "BSCU",
   "yf_symbol": "BSCU",
-  "_fetched_at": "2026-11-02T14:55:36.104572+00:00",
+  "_fetched_at": "2026-11-09T15:24:00.441561+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.71,
+  "dividendYield": 4.67,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

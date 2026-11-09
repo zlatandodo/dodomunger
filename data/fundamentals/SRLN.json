@@ -1,7 +1,7 @@
 {
   "ticker": "SRLN",
   "yf_symbol": "SRLN",
-  "_fetched_at": "2026-11-02T14:55:14.206952+00:00",
+  "_fetched_at": "2026-11-09T15:23:31.538837+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 7.28,
+  "dividendYield": 7.33,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

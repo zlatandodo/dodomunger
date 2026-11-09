@@ -1,7 +1,7 @@
 {
   "ticker": "SCHQ",
   "yf_symbol": "SCHQ",
-  "_fetched_at": "2026-11-02T14:55:53.558224+00:00",
+  "_fetched_at": "2026-11-09T15:24:27.080683+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 5.16,
+  "dividendYield": 4.86,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

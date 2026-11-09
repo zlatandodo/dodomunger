@@ -1,7 +1,7 @@
 {
   "ticker": "TIP",
   "yf_symbol": "TIP",
-  "_fetched_at": "2026-11-02T14:54:45.304419+00:00",
+  "_fetched_at": "2026-11-09T15:22:56.143481+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.71,
+  "dividendYield": 4.41,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

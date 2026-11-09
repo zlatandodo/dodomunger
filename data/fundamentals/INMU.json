@@ -1,7 +1,7 @@
 {
   "ticker": "INMU",
   "yf_symbol": "INMU",
-  "_fetched_at": "2026-11-02T14:55:55.252432+00:00",
+  "_fetched_at": "2026-11-09T15:24:30.702178+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.54,
+  "dividendYield": 3.39,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

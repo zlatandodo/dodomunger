@@ -1,7 +1,7 @@
 {
   "ticker": "TLH",
   "yf_symbol": "TLH",
-  "_fetched_at": "2026-11-02T14:54:48.774020+00:00",
+  "_fetched_at": "2026-11-09T15:23:01.194124+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 4.83,
+  "dividendYield": 4.65,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,

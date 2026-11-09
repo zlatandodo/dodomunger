@@ -1,7 +1,7 @@
 {
   "ticker": "TFLO",
   "yf_symbol": "TFLO",
-  "_fetched_at": "2026-11-02T14:55:06.655179+00:00",
+  "_fetched_at": "2026-11-09T15:23:22.958870+00:00",
   "trailingPE": null,
   "forwardPE": null,
   "priceToBook": null,
@@ -14,7 +14,7 @@
   "revenueGrowth": null,
   "earningsGrowth": null,
   "earningsQuarterlyGrowth": null,
-  "dividendYield": 3.74,
+  "dividendYield": 3.72,
   "returnOnEquity": null,
   "returnOnAssets": null,
   "profitMargins": null,
