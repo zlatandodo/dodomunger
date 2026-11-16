@@ -1,8 +1,8 @@
 {
   "ticker": "WGMI",
   "yf_symbol": "WGMI",
-  "_fetched_at": "2026-11-09T15:24:31.391957+00:00",
-  "trailingPE": 10.187767,
+  "_fetched_at": "2026-11-16T14:58:06.768826+00:00",
+  "trailingPE": 9.590737,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "IVES",
   "yf_symbol": "IVES",
-  "_fetched_at": "2026-11-09T15:24:25.632110+00:00",
-  "trailingPE": 25.272907,
+  "_fetched_at": "2026-11-16T14:58:01.701370+00:00",
+  "trailingPE": 24.779465,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

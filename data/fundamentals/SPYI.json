@@ -1,8 +1,8 @@
 {
   "ticker": "SPYI",
   "yf_symbol": "SPYI",
-  "_fetched_at": "2026-11-09T15:23:12.076499+00:00",
-  "trailingPE": 23.889416,
+  "_fetched_at": "2026-11-16T14:57:00.884154+00:00",
+  "trailingPE": 23.875668,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

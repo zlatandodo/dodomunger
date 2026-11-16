@@ -1,8 +1,8 @@
 {
   "ticker": "XLRE",
   "yf_symbol": "XLRE",
-  "_fetched_at": "2026-11-09T15:23:14.344046+00:00",
-  "trailingPE": 29.804937,
+  "_fetched_at": "2026-11-16T14:57:02.603967+00:00",
+  "trailingPE": 29.701437,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

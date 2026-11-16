@@ -1,10 +1,10 @@
 {
   "ticker": "IWP",
   "yf_symbol": "IWP",
-  "_fetched_at": "2026-11-09T15:22:48.149873+00:00",
-  "trailingPE": 26.331024,
+  "_fetched_at": "2026-11-16T14:56:43.764057+00:00",
+  "trailingPE": 26.176657,
   "forwardPE": null,
-  "priceToBook": null,
+  "priceToBook": 1.1341282,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

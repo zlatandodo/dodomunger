@@ -1,8 +1,8 @@
 {
   "ticker": "USHY",
   "yf_symbol": "USHY",
-  "_fetched_at": "2026-11-09T15:22:44.341973+00:00",
-  "trailingPE": 10.488915,
+  "_fetched_at": "2026-11-16T14:56:40.764643+00:00",
+  "trailingPE": 10.42122,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "BOTZ",
   "yf_symbol": "BOTZ",
-  "_fetched_at": "2026-11-09T15:23:45.471163+00:00",
-  "trailingPE": 34.473133,
+  "_fetched_at": "2026-11-16T14:57:28.647017+00:00",
+  "trailingPE": 33.185482,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

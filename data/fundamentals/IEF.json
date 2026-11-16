@@ -1,10 +1,10 @@
 {
   "ticker": "IEF",
   "yf_symbol": "IEF",
-  "_fetched_at": "2026-11-09T15:22:32.042205+00:00",
+  "_fetched_at": "2026-11-16T14:56:30.989469+00:00",
   "trailingPE": null,
   "forwardPE": null,
-  "priceToBook": null,
+  "priceToBook": 0.76981515,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,

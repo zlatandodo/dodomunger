@@ -1,8 +1,8 @@
 {
   "ticker": "ISTB",
   "yf_symbol": "ISTB",
-  "_fetched_at": "2026-11-09T15:23:34.338514+00:00",
-  "trailingPE": 10.808816,
+  "_fetched_at": "2026-11-16T14:57:19.411073+00:00",
+  "trailingPE": 10.74215,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,
