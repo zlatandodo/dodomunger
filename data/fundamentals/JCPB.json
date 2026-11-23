@@ -1,8 +1,8 @@
 {
   "ticker": "JCPB",
   "yf_symbol": "JCPB",
-  "_fetched_at": "2026-11-16T14:56:54.617176+00:00",
-  "trailingPE": 58.34921,
+  "_fetched_at": "2026-11-23T17:32:40.688373+00:00",
+  "trailingPE": 58.867302,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

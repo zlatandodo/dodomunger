@@ -1,8 +1,8 @@
 {
   "ticker": "XHB",
   "yf_symbol": "XHB",
-  "_fetched_at": "2026-11-16T14:57:54.140997+00:00",
-  "trailingPE": 18.736853,
+  "_fetched_at": "2026-11-23T17:33:51.267775+00:00",
+  "trailingPE": 18.17147,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

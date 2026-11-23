@@ -1,8 +1,8 @@
 {
   "ticker": "AOM",
   "yf_symbol": "AOM",
-  "_fetched_at": "2026-11-16T14:57:51.254945+00:00",
-  "trailingPE": 19.96914,
+  "_fetched_at": "2026-11-23T17:33:47.660089+00:00",
+  "trailingPE": 19.763317,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

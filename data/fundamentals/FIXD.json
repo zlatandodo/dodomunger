@@ -1,8 +1,8 @@
 {
   "ticker": "FIXD",
   "yf_symbol": "FIXD",
-  "_fetched_at": "2026-11-16T14:57:30.935280+00:00",
-  "trailingPE": 20.932848,
+  "_fetched_at": "2026-11-23T17:33:24.525626+00:00",
+  "trailingPE": 20.989782,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

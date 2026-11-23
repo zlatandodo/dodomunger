@@ -1,8 +1,8 @@
 {
   "ticker": "CGMS",
   "yf_symbol": "CGMS",
-  "_fetched_at": "2026-11-16T14:57:20.537238+00:00",
-  "trailingPE": 28.658716,
+  "_fetched_at": "2026-11-23T17:33:14.486337+00:00",
+  "trailingPE": 28.703724,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

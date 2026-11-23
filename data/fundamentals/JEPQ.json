@@ -1,8 +1,8 @@
 {
   "ticker": "JEPQ",
   "yf_symbol": "JEPQ",
-  "_fetched_at": "2026-11-16T14:56:37.357182+00:00",
-  "trailingPE": 27.17557,
+  "_fetched_at": "2026-11-23T17:32:19.934741+00:00",
+  "trailingPE": 26.554876,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

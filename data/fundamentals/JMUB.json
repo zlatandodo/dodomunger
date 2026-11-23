@@ -1,8 +1,8 @@
 {
   "ticker": "JMUB",
   "yf_symbol": "JMUB",
-  "_fetched_at": "2026-11-16T14:57:06.005142+00:00",
-  "trailingPE": 9.903952,
+  "_fetched_at": "2026-11-23T17:32:55.139298+00:00",
+  "trailingPE": 9.919157,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

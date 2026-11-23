@@ -1,8 +1,8 @@
 {
   "ticker": "UCON",
   "yf_symbol": "UCON",
-  "_fetched_at": "2026-11-16T14:57:31.492575+00:00",
-  "trailingPE": 21.184065,
+  "_fetched_at": "2026-11-23T17:33:25.083466+00:00",
+  "trailingPE": 21.175203,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

@@ -1,8 +1,8 @@
 {
   "ticker": "CSHI",
   "yf_symbol": "CSHI",
-  "_fetched_at": "2026-11-16T14:57:59.893944+00:00",
-  "trailingPE": 24.11273,
+  "_fetched_at": "2026-11-23T17:33:57.514290+00:00",
+  "trailingPE": 24.038227,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

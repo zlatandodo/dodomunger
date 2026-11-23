@@ -1,8 +1,8 @@
 {
   "ticker": "AMLP",
   "yf_symbol": "AMLP",
-  "_fetched_at": "2026-11-16T14:56:52.314562+00:00",
-  "trailingPE": 13.93297,
+  "_fetched_at": "2026-11-23T17:32:37.281902+00:00",
+  "trailingPE": 13.482804,
   "forwardPE": null,
   "priceToBook": null,
   "debtToEquity": null,

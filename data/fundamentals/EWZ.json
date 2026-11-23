@@ -1,10 +1,10 @@
 {
   "ticker": "EWZ",
   "yf_symbol": "EWZ",
-  "_fetched_at": "2026-11-16T14:56:54.060305+00:00",
-  "trailingPE": 10.038858,
+  "_fetched_at": "2026-11-23T17:32:40.125508+00:00",
+  "trailingPE": 9.280691,
   "forwardPE": null,
-  "priceToBook": 0.8583456,
+  "priceToBook": 0.793423,
   "debtToEquity": null,
   "currentRatio": null,
   "quickRatio": null,
